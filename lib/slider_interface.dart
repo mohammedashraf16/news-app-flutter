@@ -1,0 +1,5 @@
+class SliderInterface{
+  void onSlideChange(){
+
+  }
+}

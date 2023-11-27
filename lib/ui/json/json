@@ -1,0 +1,16 @@
+API (LINK)=> Request => Response (JSON)
+JSON => {} , []
+Object {}.
+Array [].
+post
+{
+    "id":1,
+    "title" :"" ,
+    "content" :"" ,
+    "likesBy" :[
+        "Ahmed",
+        "mohammed",
+        "ali",
+    ] ,
+
+}
